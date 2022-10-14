@@ -2,3 +2,4 @@ Friday 14 October 2022 09:42:18 AM IST
 total 4
 -rw-rw-r-- 1 sam sam 39 Oct 14 09:42 s1.txt
 -rw-rw-r-- 1 sam sam  0 Oct 14 09:42 s2.txt
+Friday 14 October 2022 03:33:42 PM IST
